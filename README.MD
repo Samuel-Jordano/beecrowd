@@ -5,14 +5,13 @@
 Este repositório contém minhas soluções para diversos desafios de lógica e programação, desenvolvidas em C#. Em breve vou postar em outras linguagens. 
 
 ## 🛠 Tecnologias Utilizadas
-
 - **Linguagem**: C#
 - **IDE**: [VS Code](https://code.visualstudio.com/) [Onlinegdb](https://www.onlinegdb.com/)
 
 ## 📧 Contato
 
 Se tiver dúvidas ou quiser trocar ideias, entre em contato:
-- Email: [email](eusamueljordano@gmail.com)
+- Email: eusamueljordano@gmail.com
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/samueljordano/)
 
 ---
